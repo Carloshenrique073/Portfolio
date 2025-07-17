@@ -11,7 +11,7 @@
 
 body {
   font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
-  background: url('../imgs/bgimg4.jpg') no-repeat center center fixed;
+  background: url('imgs/bgimg4.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #64ffda; 
   line-height: 1.6;
